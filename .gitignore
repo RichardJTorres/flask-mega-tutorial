@@ -1,0 +1,15 @@
+#Virtual Environment
+flask
+.Python
+bin
+lib
+includes
+
+.DS_Store
+
+.idea
+
+tmp
+
+*.iml
+*.pyc
