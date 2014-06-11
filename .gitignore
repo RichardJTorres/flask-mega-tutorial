@@ -13,3 +13,5 @@ tmp
 
 *.iml
 *.pyc
+*.db
+alembic.ini
